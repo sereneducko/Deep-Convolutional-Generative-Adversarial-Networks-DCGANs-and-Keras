@@ -1,14 +1,17 @@
 # 🎨 **Anime Character Generation using DCGANs** 🎨
-<img src="banner_image_here" alt="Anime Character Generation Banner" width="100%">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-GPXX0XCEEN/images/face_cartton.png" alt="Anime Character Generation Banner" width="100%">
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-API-red?logo=keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-lightgrey?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Math%20Operations-lightgrey?logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Data%20Processing-lightgrey?logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Visualization-blue?logo=seaborn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue?logo=matplotlib&logoColor=white)
+<div align="center">
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-ffffff?style=flat-square&logo=python&logoColor=3776AB" alt="Python"></a>
+    <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/-TensorFlow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00" alt="TensorFlow"></a>
+    <a href="https://keras.io/"><img src="https://img.shields.io/badge/-Keras-ffffff?style=flat-square&logo=keras&logoColor=D00000" alt="Keras"></a>
+    <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/-Pandas-ffffff?style=flat-square&logo=pandas&logoColor=150458" alt="Pandas"></a>
+    <a href="https://numpy.org/"><img src="https://img.shields.io/badge/-NumPy-ffffff?style=flat-square&logo=numpy&logoColor=013243" alt="NumPy"></a>
+    <a href="https://scikit-learn.org/"><img src="https://img.shields.io/badge/-Scikit--Learn-ffffff?style=flat-square&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn"></a>
+    <a href="https://seaborn.pydata.org/"><img src="https://img.shields.io/badge/-Seaborn-ffffff?style=flat-square&logo=seaborn&logoColor=4B0082" alt="Seaborn"></a>
+    <a href="https://matplotlib.org/"><img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=336699" alt="Matplotlib"></a>
+</div>
+
 
 ## ✨ **Project Overview**
 Anime Character Generation with DCGANs is a project focused on generating high-quality anime characters through **Deep Convolutional Generative Adversarial Networks (DCGANs)**. By leveraging the unique adversarial structure of **GANs** combined with **CNNs** (Convolutional Neural Networks), this model learns to create visually appealing anime character images. This can serve as a powerful tool for creative industries, indie game developers, or anime enthusiasts seeking to generate character art automatically.
